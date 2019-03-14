@@ -1,3 +1,3 @@
 # ChibiOS Test
 
-make edrug/z70:default
+Test code for the stm32_f103 one key keyboard
